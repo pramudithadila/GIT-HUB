@@ -2,11 +2,11 @@ Create a 30-second video with a suitable agricultural sound that showcases the k
 
 Highlight the application's unique functions
 
-1. Data Entry and Crop Lifecycle Tracking: Demonstrate how farmers can easily input crop-related data and track the lifecycle of their crops, ensuring efficient management from planting to harvest.
+1. Data Entry ly input crop-related data and track the lifecycle of their crops, ensuring efficient management from planting to harvest.
 
 2. Crop Yield Prediction with Weekly Calculation: Showcase the app's capability to predict crop yields based on historical data and current conditions, helping farmers plan better and reduce waste.
 
-3. Excess Crop Identification and Recommendation: Illustrate the app's feature to identify excess crops and provide recommendations, enabling farmers to diversify and optimize production.
+//3. Excess Crop Identification and Recommendation: Illustrate the app's feature to identify excess crops and provide recommendations, enabling farmers to diversify and optimize production.
 
 4. Price Prediction with Machine Learning: Highlight how the application uses advanced machine learning algorithms for accurate price predictions, aiding farmers in making informed selling decisions.
 
