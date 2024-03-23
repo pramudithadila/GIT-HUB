@@ -1,0 +1,21 @@
+Create a 30-second video with a suitable agricultural sound that showcases the key features and benefits of the ' GOVISEWANA ' web application, a revolutionary platform designed to empower Sri Lanka's farming community by addressing critical agricultural challenges such as price volatility, and post-harvest losses. And also have to ability to predict future price of the crops and and the amount of yield farmers can obtain after their cultivation of crops
+
+Highlight the application's unique functions
+
+1. Data Entry and Crop Lifecycle Tracking: Demonstrate how farmers can easily input crop-related data and track the lifecycle of their crops, ensuring efficient management from planting to harvest.
+
+2. Crop Yield Prediction with Weekly Calculation: Showcase the app's capability to predict crop yields based on historical data and current conditions, helping farmers plan better and reduce waste.
+
+3. Excess Crop Identification and Recommendation: Illustrate the app's feature to identify excess crops and provide recommendations, enabling farmers to diversify and optimize production.
+
+4. Price Prediction with Machine Learning: Highlight how the application uses advanced machine learning algorithms for accurate price predictions, aiding farmers in making informed selling decisions.
+
+5. Seasonal Crop Support: Show the support for seasonal crops, providing specialized guidance and adjusting for seasonal demand fluctuations.
+
+6. Crop Cultivation Newsletter: Include snippets of the newsletter feature offering cultivation tips and criteria, aimed at maximizing yield and quality.
+
+7. Translation for Accessibility: Emphasize the app's accessibility features, including translation into local languages, making it user-friendly for a broader audience.
+
+ The video should end with a call to action, inviting viewers to download and explore the app for a sustainable farming future."
+
+So, generate a  30 second video with quality agricultural background music to  capture the interest of potential users and stakeholders in a concise and engaging marketing video.
